@@ -7,7 +7,7 @@ var config = {
     az: 180,
     camera: "ASI120MC",
     computer: "Raspberry Pi 3",
-    owner: "xyz",
+    owner: "em",
     auroraMap: "north",
     overlayOffsetLeft: 0,
     overlayOffsetTop: 0,
